@@ -1,7 +1,9 @@
-a = 7
-b = 3
+# my_functions.py
 
-if a > b:
-    print(a)
-else:
-    print(b)
+def add(a, b):
+    """Adds two numbers and returns the sum."""
+    return a + b
+
+def subtract(a, b):
+    """Subtracts two numbers and returns the difference."""
+    return a - b
