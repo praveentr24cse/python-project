@@ -1,6 +1,6 @@
 # test_my_functions.py
 
-from my_functions import add, subtract
+from maximum_of_two_numbers import add, subtract
 
 def test_add_positive_numbers():
     """Test add function with positive numbers."""
